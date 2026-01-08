@@ -1,0 +1,10 @@
+Booking_ID,Customer_Type,City,Room_Type,Nights,Price_per_Night,Total_Bill,Booking_Status,Rating
+301,Online,Chennai,Single,2,2500.0,5000,Confirmed,4.5
+302,Offline,Bangalore,Double,3,3200.0,9600,Confirmed,4.7
+303,Online,Delhi,Suite,5,6000.0,30000,Cancelled,
+304,Online,Chennai,Double,1,3000.0,3000,Confirmed,4.2
+305,Offline,Delhi,Single,4,2600.0,10400,Cancelled,3.8
+306,Online,,Suite,3,5800.0,17400,Confirmed,4.8
+307,Offline,Bangalore,Double,2,3100.0,6200,Confirmed,4.1
+308,Online,Delhi,Suite,6,6200.0,37200,Cancelled,
+309,Online,Chennai,Single,1,,2500,Confirmed,4.6

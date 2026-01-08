@@ -1,0 +1,11 @@
+User_ID,Age,City,Session_Duration,Data_Used_MB,Subscription_Type,Amount_Paid,App_Rating
+501,22.0,Chennai,45.0,300.0,Free,0,4.2
+502,35.0,Bangalore,60.0,550.0,Premium,499,4.8
+503,,Delhi,30.0,200.0,Free,0,3.9
+504,28.0,Chennai,90.0,700.0,Basic,199,4.1
+505,42.0,Delhi,120.0,900.0,Premium,499,4.9
+506,31.0,Bangalore,50.0,450.0,Basic,199,
+507,,Chennai,40.0,320.0,Free,0,4.0
+508,26.0,,70.0,600.0,Premium,499,4.7
+509,38.0,Delhi,,500.0,Basic,199,4.3
+510,29.0,Bangalore,55.0,,Free,0,4.1
